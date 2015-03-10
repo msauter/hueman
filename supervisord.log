@@ -115,3 +115,11 @@
 2015-03-09 06:42:23,838 INFO supervisord started with pid 87
 2015-03-09 06:42:24,914 INFO spawned: 'hueman' with pid 679
 2015-03-09 06:42:25,925 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-10 01:47:18,141 CRIT Supervisor running as root (no user in config file)
+2015-03-10 01:47:18,153 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-10 01:47:18,153 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-10 01:47:18,209 INFO RPC interface 'supervisor' initialized
+2015-03-10 01:47:18,209 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-10 01:47:18,231 INFO supervisord started with pid 87
+2015-03-10 01:47:19,233 INFO spawned: 'hueman' with pid 557
+2015-03-10 01:47:20,299 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
