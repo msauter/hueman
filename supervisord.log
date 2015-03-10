@@ -1,0 +1,117 @@
+2015-03-09 00:57:43,376 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 00:57:43,380 INFO daemonizing the supervisord process
+2015-03-09 00:57:43,381 INFO supervisord started with pid 6314
+2015-03-09 00:57:44,383 INFO spawnerr: can't find command 'll'
+2015-03-09 00:57:45,384 INFO spawnerr: can't find command 'll'
+2015-03-09 00:57:47,385 INFO spawnerr: can't find command 'll'
+2015-03-09 00:57:50,386 INFO spawnerr: can't find command 'll'
+2015-03-09 00:57:50,386 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:02:12,872 WARN received SIGTERM indicating exit request
+2015-03-09 01:03:36,619 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:03:36,623 INFO daemonizing the supervisord process
+2015-03-09 01:03:36,625 INFO supervisord started with pid 6344
+2015-03-09 01:03:37,626 INFO spawnerr: can't find command 'll'
+2015-03-09 01:03:38,628 INFO spawnerr: can't find command 'll'
+2015-03-09 01:03:40,630 INFO spawnerr: can't find command 'll'
+2015-03-09 01:03:43,633 INFO spawnerr: can't find command 'll'
+2015-03-09 01:03:43,633 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:04:51,730 WARN received SIGTERM indicating exit request
+2015-03-09 01:05:01,858 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:05:01,862 INFO daemonizing the supervisord process
+2015-03-09 01:05:01,863 INFO supervisord started with pid 6360
+2015-03-09 01:05:02,866 INFO spawnerr: can't find command 'll'
+2015-03-09 01:05:03,867 INFO spawnerr: can't find command 'll'
+2015-03-09 01:05:05,869 INFO spawnerr: can't find command 'll'
+2015-03-09 01:05:08,871 INFO spawnerr: can't find command 'll'
+2015-03-09 01:05:08,871 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:11:33,556 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:11:33,560 INFO daemonizing the supervisord process
+2015-03-09 01:11:33,561 INFO supervisord started with pid 6397
+2015-03-09 01:11:34,562 INFO spawnerr: can't find command 'll'
+2015-03-09 01:11:35,563 INFO spawnerr: can't find command 'll'
+2015-03-09 01:11:37,564 INFO spawnerr: can't find command 'll'
+2015-03-09 01:11:40,565 INFO spawnerr: can't find command 'll'
+2015-03-09 01:11:40,566 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:18:42,246 WARN received SIGTERM indicating exit request
+2015-03-09 01:18:48,798 WARN received SIGTERM indicating exit request
+2015-03-09 01:19:01,496 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:19:01,516 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-09 01:19:01,518 INFO daemonizing the supervisord process
+2015-03-09 01:19:01,519 INFO set current directory: '/tmp'
+2015-03-09 01:19:01,519 INFO supervisord started with pid 6483
+2015-03-09 01:19:02,520 INFO spawnerr: can't find command 'll'
+2015-03-09 01:19:03,521 INFO spawnerr: can't find command 'll'
+2015-03-09 01:19:05,523 INFO spawnerr: can't find command 'll'
+2015-03-09 01:19:09,448 INFO spawnerr: can't find command 'll'
+2015-03-09 01:19:09,448 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:19:50,896 WARN received SIGTERM indicating exit request
+2015-03-09 01:20:36,660 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 01:20:36,660 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:20:36,673 INFO RPC interface 'supervisor' initialized
+2015-03-09 01:20:36,673 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-09 01:20:36,674 INFO daemonizing the supervisord process
+2015-03-09 01:20:36,675 INFO set current directory: '/tmp'
+2015-03-09 01:20:36,676 INFO supervisord started with pid 6494
+2015-03-09 01:20:37,677 INFO spawnerr: can't find command 'll'
+2015-03-09 01:20:38,678 INFO spawnerr: can't find command 'll'
+2015-03-09 01:20:41,514 INFO spawnerr: can't find command 'll'
+2015-03-09 01:20:44,885 INFO spawnerr: can't find command 'll'
+2015-03-09 01:20:44,885 INFO gave up: foo entered FATAL state, too many start retries too quickly
+2015-03-09 01:21:03,302 WARN received SIGTERM indicating exit request
+2015-03-09 01:25:00,624 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 01:25:00,624 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 01:25:00,642 INFO RPC interface 'supervisor' initialized
+2015-03-09 01:25:00,643 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-09 01:25:00,644 INFO daemonizing the supervisord process
+2015-03-09 01:25:00,645 INFO set current directory: '/tmp'
+2015-03-09 01:25:00,646 INFO supervisord started with pid 6529
+2015-03-09 01:25:01,649 INFO spawned: 'hueman' with pid 6530
+2015-03-09 01:25:02,651 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 01:25:41,635 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 01:25:55,738 INFO spawned: 'hueman' with pid 6537
+2015-03-09 01:25:56,740 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 02:11:14,381 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 02:11:15,388 INFO spawned: 'hueman' with pid 6913
+2015-03-09 02:11:16,389 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 02:21:00,807 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 02:21:01,815 INFO spawned: 'hueman' with pid 6952
+2015-03-09 02:21:02,818 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 05:56:07,980 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 05:56:08,988 INFO spawned: 'hueman' with pid 7524
+2015-03-09 05:56:09,990 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 05:58:41,880 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 05:58:42,887 INFO spawned: 'hueman' with pid 7540
+2015-03-09 05:58:43,888 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 06:28:28,844 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:28:28,844 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:28:28,866 INFO RPC interface 'supervisor' initialized
+2015-03-09 06:28:28,866 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-09 06:28:28,867 INFO daemonizing the supervisord process
+2015-03-09 06:28:28,868 INFO set current directory: '/tmp'
+2015-03-09 06:28:28,868 INFO supervisord started with pid 1254
+2015-03-09 06:28:29,870 INFO spawned: 'hueman' with pid 1255
+2015-03-09 06:28:30,872 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-09 06:39:41,901 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-09 06:40:32,714 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:40:32,714 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:40:42,833 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:40:42,833 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:40:53,034 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:40:53,034 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:41:03,157 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:41:03,157 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:41:13,292 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:41:13,292 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:41:23,411 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:41:23,411 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:41:33,541 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:41:33,541 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:42:08,251 WARN received SIGTERM indicating exit request
+2015-03-09 06:42:23,726 CRIT Supervisor running as root (no user in config file)
+2015-03-09 06:42:23,726 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-03-09 06:42:23,726 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-03-09 06:42:23,828 INFO RPC interface 'supervisor' initialized
+2015-03-09 06:42:23,828 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-03-09 06:42:23,838 INFO supervisord started with pid 87
+2015-03-09 06:42:24,914 INFO spawned: 'hueman' with pid 679
+2015-03-09 06:42:25,925 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
