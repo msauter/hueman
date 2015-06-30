@@ -18,7 +18,7 @@ $data_json = json_encode($data);
 //Create curl resource 
 $ch = curl_init(); 
 //Set url 
-curl_setopt($ch, CURLOPT_URL, "http://10.0.1.8/api/newdeveloper/lights/$light_id/state"); 
+curl_setopt($ch, CURLOPT_URL, "http://10.0.1.2/api/newdeveloper/lights/$light_id/state"); 
 //Set headers
 curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json','Content-Length: ' . strlen($data_json)));
 //Set request type
@@ -31,6 +31,7 @@ curl_setopt($ch, CURLOPT_RETURNTRANSFER, false);
 $output = curl_exec($ch); 
 //Close curl resource to free up system resources 
 curl_close($ch);
+
 while (ob_get_status()) 
 {
         ob_end_clean();

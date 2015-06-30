@@ -123,3 +123,191 @@
 2015-03-10 01:47:18,231 INFO supervisord started with pid 87
 2015-03-10 01:47:19,233 INFO spawned: 'hueman' with pid 557
 2015-03-10 01:47:20,299 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-03-10 16:08:00,132 INFO stopped: hueman (terminated by SIGTERM)
+2015-03-10 16:08:01,206 INFO spawned: 'hueman' with pid 13253
+2015-03-10 16:08:02,283 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-09 05:51:18,612 WARN received SIGTERM indicating exit request
+2015-04-09 05:51:18,631 INFO waiting for hueman to die
+2015-04-09 05:51:18,633 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-09 05:51:56,976 CRIT Supervisor running as root (no user in config file)
+2015-04-09 05:51:56,976 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-09 05:51:56,976 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-04-09 05:51:57,032 INFO RPC interface 'supervisor' initialized
+2015-04-09 05:51:57,032 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-09 05:51:57,051 INFO supervisord started with pid 87
+2015-04-09 05:51:58,082 INFO spawned: 'hueman' with pid 570
+2015-04-09 05:51:59,088 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-22 22:23:18,744 WARN received SIGTERM indicating exit request
+2015-04-22 22:23:18,772 INFO waiting for hueman to die
+2015-04-22 22:23:18,782 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-22 22:23:57,629 CRIT Supervisor running as root (no user in config file)
+2015-04-22 22:23:57,629 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-22 22:23:57,629 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-04-22 22:23:57,754 INFO RPC interface 'supervisor' initialized
+2015-04-22 22:23:57,754 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-22 22:23:57,766 INFO supervisord started with pid 87
+2015-04-22 22:23:58,800 INFO spawned: 'hueman' with pid 574
+2015-04-22 22:23:59,807 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-24 07:40:51,219 INFO exited: hueman (terminated by SIGTERM; not expected)
+2015-04-24 07:40:52,309 INFO spawned: 'hueman' with pid 12921
+2015-04-24 07:40:53,382 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-24 23:28:06,654 INFO exited: hueman (terminated by SIGTERM; not expected)
+2015-04-24 23:28:07,735 INFO spawned: 'hueman' with pid 19218
+2015-04-24 23:28:08,746 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:16:28,063 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:16:38,474 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:17:22,196 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:19:58,423 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:19:58,423 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:21:01,764 WARN received SIGTERM indicating exit request
+2015-04-25 17:21:01,765 INFO waiting for hueman to die
+2015-04-25 17:21:01,766 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 17:21:13,970 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:21:13,970 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:21:14,111 INFO RPC interface 'supervisor' initialized
+2015-04-25 17:21:14,111 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 17:21:14,111 INFO supervisord started with pid 27424
+2015-04-25 17:21:15,115 INFO spawned: 'hueman' with pid 27427
+2015-04-25 17:21:16,116 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:21:45,807 WARN received SIGINT indicating exit request
+2015-04-25 17:21:45,807 INFO waiting for hueman to die
+2015-04-25 17:21:45,808 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 17:23:29,313 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:23:29,328 INFO RPC interface 'supervisor' initialized
+2015-04-25 17:23:29,328 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 17:23:29,329 INFO supervisord started with pid 27589
+2015-04-25 17:23:30,331 INFO spawned: 'hueman' with pid 27592
+2015-04-25 17:23:31,332 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:23:59,419 WARN received SIGINT indicating exit request
+2015-04-25 17:23:59,419 INFO waiting for hueman to die
+2015-04-25 17:23:59,422 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 17:38:13,350 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:38:13,350 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:38:13,367 INFO RPC interface 'supervisor' initialized
+2015-04-25 17:38:13,367 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 17:38:13,367 INFO supervisord started with pid 28081
+2015-04-25 17:38:14,371 INFO spawned: 'hueman' with pid 28084
+2015-04-25 17:38:15,372 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:38:19,037 WARN received SIGINT indicating exit request
+2015-04-25 17:38:19,037 INFO waiting for hueman to die
+2015-04-25 17:38:19,039 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 17:38:41,751 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:38:41,751 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:38:41,764 INFO RPC interface 'supervisor' initialized
+2015-04-25 17:38:41,764 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 17:38:41,765 INFO supervisord started with pid 28088
+2015-04-25 17:38:42,767 INFO spawned: 'hueman' with pid 28091
+2015-04-25 17:38:43,769 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:39:24,089 WARN received SIGINT indicating exit request
+2015-04-25 17:39:24,090 INFO waiting for hueman to die
+2015-04-25 17:39:24,091 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 17:40:13,014 CRIT Supervisor running as root (no user in config file)
+2015-04-25 17:40:13,014 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 17:40:13,028 INFO RPC interface 'supervisor' initialized
+2015-04-25 17:40:13,028 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 17:40:13,029 INFO daemonizing the supervisord process
+2015-04-25 17:40:13,030 INFO set current directory: '/tmp'
+2015-04-25 17:40:13,031 INFO supervisord started with pid 28141
+2015-04-25 17:40:14,034 INFO spawned: 'hueman' with pid 28143
+2015-04-25 17:40:15,036 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-04-25 17:46:40,042 WARN received SIGTERM indicating exit request
+2015-04-25 17:46:40,044 INFO waiting for hueman to die
+2015-04-25 17:46:40,045 INFO stopped: hueman (terminated by SIGTERM)
+2015-04-25 18:28:51,988 CRIT Supervisor running as root (no user in config file)
+2015-04-25 18:28:51,989 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-04-25 18:28:51,989 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-04-25 18:28:52,110 INFO RPC interface 'supervisor' initialized
+2015-04-25 18:28:52,110 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-04-25 18:28:52,166 INFO supervisord started with pid 92
+2015-04-25 18:28:53,243 INFO spawned: 'hueman' with pid 184
+2015-04-25 18:28:54,321 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-05-13 05:28:49,603 WARN received SIGTERM indicating exit request
+2015-05-13 05:28:49,619 INFO waiting for hueman to die
+2015-05-13 05:28:49,625 INFO stopped: hueman (terminated by SIGTERM)
+2015-05-13 05:29:20,093 CRIT Supervisor running as root (no user in config file)
+2015-05-13 05:29:20,093 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-05-13 05:29:20,093 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-05-13 05:29:20,108 INFO RPC interface 'supervisor' initialized
+2015-05-13 05:29:20,108 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-05-13 05:29:20,134 INFO supervisord started with pid 95
+2015-05-13 05:29:21,191 INFO spawned: 'hueman' with pid 235
+2015-05-13 05:29:22,241 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-05-17 23:04:15,849 CRIT Supervisor running as root (no user in config file)
+2015-05-17 23:04:15,849 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-05-17 23:04:15,849 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-05-17 23:04:15,873 INFO RPC interface 'supervisor' initialized
+2015-05-17 23:04:15,874 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-05-17 23:04:15,898 INFO supervisord started with pid 96
+2015-05-17 23:04:16,924 INFO spawned: 'hueman' with pid 239
+2015-05-17 23:04:17,933 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-05-25 00:50:33,382 CRIT Supervisor running as root (no user in config file)
+2015-05-25 00:50:33,382 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-05-25 00:50:33,382 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-05-25 00:50:33,404 INFO RPC interface 'supervisor' initialized
+2015-05-25 00:50:33,404 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-05-25 00:50:33,423 INFO supervisord started with pid 96
+2015-05-25 00:50:34,476 INFO spawned: 'hueman' with pid 239
+2015-05-25 00:50:35,525 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-02 01:13:01,870 CRIT Supervisor running as root (no user in config file)
+2015-06-02 01:13:01,870 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-02 01:13:01,870 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-02 01:13:01,916 INFO RPC interface 'supervisor' initialized
+2015-06-02 01:13:01,916 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-02 01:13:01,942 INFO supervisord started with pid 96
+2015-06-02 01:13:02,944 INFO spawned: 'hueman' with pid 239
+2015-06-02 01:13:03,979 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-02 23:27:30,329 WARN received SIGTERM indicating exit request
+2015-06-02 23:27:30,345 INFO waiting for hueman to die
+2015-06-02 23:27:30,351 INFO stopped: hueman (terminated by SIGTERM)
+2015-06-02 23:27:48,743 CRIT Supervisor running as root (no user in config file)
+2015-06-02 23:27:48,743 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-02 23:27:48,743 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-02 23:27:48,774 INFO RPC interface 'supervisor' initialized
+2015-06-02 23:27:48,775 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-02 23:27:48,799 INFO supervisord started with pid 96
+2015-06-02 23:27:49,873 INFO spawned: 'hueman' with pid 239
+2015-06-02 23:27:50,949 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-17 12:32:07,069 WARN received SIGTERM indicating exit request
+2015-06-17 12:32:07,101 INFO waiting for hueman to die
+2015-06-17 12:32:07,103 INFO stopped: hueman (terminated by SIGTERM)
+2015-06-17 12:32:56,799 CRIT Supervisor running as root (no user in config file)
+2015-06-17 12:32:56,818 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-17 12:32:56,818 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-17 12:32:56,849 INFO RPC interface 'supervisor' initialized
+2015-06-17 12:32:56,850 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-17 12:32:56,871 INFO supervisord started with pid 97
+2015-06-17 12:32:57,910 INFO spawned: 'hueman' with pid 238
+2015-06-17 12:32:58,912 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-27 16:23:07,139 WARN received SIGTERM indicating exit request
+2015-06-27 16:23:07,230 INFO waiting for hueman to die
+2015-06-27 16:23:07,259 INFO stopped: hueman (terminated by SIGTERM)
+2015-06-27 16:23:56,705 CRIT Supervisor running as root (no user in config file)
+2015-06-27 16:23:56,705 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-27 16:23:56,705 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-27 16:23:56,733 INFO RPC interface 'supervisor' initialized
+2015-06-27 16:23:56,733 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-27 16:23:56,757 INFO supervisord started with pid 96
+2015-06-27 16:23:57,834 INFO spawned: 'hueman' with pid 230
+2015-06-27 16:23:58,904 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-28 16:09:32,843 WARN received SIGTERM indicating exit request
+2015-06-28 16:09:32,867 INFO waiting for hueman to die
+2015-06-28 16:09:32,881 INFO stopped: hueman (terminated by SIGTERM)
+2015-06-28 16:09:50,883 CRIT Supervisor running as root (no user in config file)
+2015-06-28 16:09:50,884 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-28 16:09:50,884 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-28 16:09:50,930 INFO RPC interface 'supervisor' initialized
+2015-06-28 16:09:50,930 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-28 16:09:50,954 INFO supervisord started with pid 96
+2015-06-28 16:09:51,962 INFO spawned: 'hueman' with pid 238
+2015-06-28 16:09:53,011 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2015-06-28 21:19:54,714 WARN received SIGTERM indicating exit request
+2015-06-28 21:19:54,718 INFO waiting for hueman to die
+2015-06-28 21:19:54,740 INFO stopped: hueman (terminated by SIGTERM)
+2015-06-28 21:20:08,888 CRIT Supervisor running as root (no user in config file)
+2015-06-28 21:20:08,888 WARN No file matches via include "/usr/local/share/supervisor/conf.d/*.conf"
+2015-06-28 21:20:08,889 INFO Increased RLIMIT_NOFILE limit to 1024
+2015-06-28 21:20:08,921 INFO RPC interface 'supervisor' initialized
+2015-06-28 21:20:08,921 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2015-06-28 21:20:08,945 INFO supervisord started with pid 96
+2015-06-28 21:20:10,007 INFO spawned: 'hueman' with pid 237
+2015-06-28 21:20:11,014 INFO success: hueman entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
