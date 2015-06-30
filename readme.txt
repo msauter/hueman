@@ -1,6 +1,6 @@
 A light switch in a web browser for the Philips Hue lighting system.
 
-The design is using the "Boxify" One Page Website Template by Peter Finlan for Codrops
+The design uses the "Boxify" One Page Website Template by Peter Finlan for Codrops
 
 """
 "Boxify" One Page Website Template by Peter Finlan for Codrops
